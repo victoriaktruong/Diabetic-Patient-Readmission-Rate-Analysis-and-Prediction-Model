@@ -1,7 +1,7 @@
 # Predictive Modeling of Hospital Readmission Rates 
 
 ## Background
-
+Predicting hospital readmission among diabetic patients holds great importance in healthcare. This predictive capability empowers healthcare providers and policymakers to implement proactive measures that can significantly impact patient care and the healthcare system as a whole. By identifying individuals at a higher risk of readmission, healthcare resources can be directed more effectively, ensuring that those who need it the most receive timely and appropriate care. Moreover, this predictive approach fosters a patient-centered model of care, promoting better health outcomes and improved patient satisfaction. Additionally, it contributes to cost reduction by minimizing unnecessary hospitalizations, which ultimately benefits both patients and healthcare systems.
 
 
 ## Dataset 
