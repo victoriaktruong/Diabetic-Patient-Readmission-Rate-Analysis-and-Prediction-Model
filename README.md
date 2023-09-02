@@ -54,7 +54,6 @@ The split ratio is 80% for training (20,000 samples) and 20% for testing (5,000 
 
 The logistic regression model is created and trained to predict hospital readmission. The model's performance on the training data is assessed, and the coefficients are interpreted to understand the impact of different features. Following this, the data is preprocessed by splitting it into training, validation, and test sets and scaling the inputs. A neural network model with multiple hidden layers is then defined and compiled. The model is trained with tuned hyperparameters, and its performance is evaluated on the test data. This process involves data scaling, dataset creation, data splitting, neural network model definition, and training with hyperparameter tuning. The final model achieves an accuracy of 61.78% on the test data, demonstrating its predictive capability for hospital readmission.
 
-https://public.tableau.com/views/PredictingHospitalReadmissionRatesforDiabeticPatients/Sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Conclusion
 The achieved test accuracy of 61.78% in our hospital readmission prediction models marks a promising start. The next steps involve fine-tuning features, optimizing hyperparameters, and exploring advanced neural network architectures. Additionally, assessing the practical applicability of these models in collaboration with healthcare experts remains a priority to ensure their effectiveness in real-world clinical scenarios.
